@@ -17,3 +17,15 @@
  * $('img').outerHeigth()
  * $('img').outerHeigth(true) // também pega a margin
  **/
+
+
+/**
+ * .position() pega onde o elemento está de acordo com o top ou left;
+ * $('img').position().top
+ * $('img').position().left
+ * $('img').offSet().top
+ * $('img').offSet().left
+ *
+ * OFFSET PEGA DE ACORDO COM DOCUMENT
+ * POSITION PEGA DE ACORDO COM O ELEMENTO
+*/
